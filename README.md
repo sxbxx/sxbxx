@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sxbxx
-- 
+
         Also known as Michelle and I'm currently searching for a role within UI and UX Design or Product Design.
 
         Currently living in Tauranga, New Zealand
@@ -12,7 +12,7 @@
 
 
 - 👀 I’m interested in ...
-- 
+
         How user interact with design and the theory behind users behaviours.
 
         It may not sound conventional but my freetime I love to do bodybuilding and powerlifting.
@@ -29,7 +29,7 @@
 
 
 - 🌱 I’m currently learning ...
-- 
+
       It may not be optimal in my role, for me to understand javascript,
       however I am still learning it for myself.
       
@@ -43,13 +43,13 @@
 
 
 - 💞️ I’m looking to collaborate on ...
-- 
+
       Tech Projects involving the design visual development of applications and websites
       
 
 
 - 📫 How to reach me ...
-- 
+
     You can vist my portfolio website @ michellebuyn.com
     or contact me at michelle.buyn@gmail.com
 
